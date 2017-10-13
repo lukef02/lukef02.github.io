@@ -1,6 +1,113 @@
 body {
-	background-color: GhostWhite;
+	background-color: White
+	border: 5px solid red;
 }
-h1, p {
-	color: DarkBlue;
+
+h1 {
+	color: black;
+}
+
+h1 {
+	font-size: 70px;
+	margin-bottom: 10px;
+}
+
+h2 {
+	width: 800px;
+}
+
+#hero {
+	margin-left: 50px;
+	margin-top: 150px;
+	margin-bottom: 75px;
+}
+
+button {
+	font-size: 15px;
+	background-color: White;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 3px;
+	margin-right: 20px;
+	box-shadow: none;
+}
+
+
+#work {
+	color: #e2c044;
+	border-color: #e2c044;
+}
+
+#contact {
+	color: #6e8898;
+	border-color: #6e8898;
+}
+
+.example {
+	color: black;
+	border-color: none;
+	border-style: none;
+	height: 600px;
+}
+
+#snowchaser {
+	color: white;
+	background-color: #2e5266;
+	border-color: #2e5266;
+	border-style: none;
+}
+
+img {
+	margin-left: 200px;
+	margin-top: 55px;
+}
+
+#trek {
+	color: white;
+	background-color: #e2c044;
+	border-color: #2e5266;
+	border-style: none;
+}
+
+#pet {
+	color: white;
+	background-color: #6E8898;
+}
+
+.boxtextright {
+	margin-left: 550px;
+	margin-right: 150px;
+	margin-top: 0px;
+	border-color: black;
+	border-style: none;
+	min-width: 500px;
+	padding-top: 140px;
+}
+
+.boxtextleft {
+
+}
+
+.project {
+	font-size: 45px;
+	height: 0px;
+	padding-top: 0px: 
+}
+
+.subtitle {
+	font-size: 15px;
+	text-transform: uppercase;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+
+.description {
+	font-size: 25px;
+}
+
+sup{
+	font-size: 20px;
+	font-weight: lighter;
 }
