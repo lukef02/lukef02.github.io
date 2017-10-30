@@ -49,23 +49,6 @@ button {
 	border-color: #6e8898;
 	}
 
-button:focus {
-	border: none;
-	border-radius: 0px;
-	background-color: #2e5266;
-	color: #ffffff;
-	outline: 0;
-}
-
-button:hover {
-	background-color: #d3d0cb;
-	color: #ffffff;
-}
-
-button:active {
-	color:white;
-}
-
 .example {
 	color: black;
 	border-color: none;
